@@ -78,13 +78,13 @@ a{
 }
 
 .area-to-code{
-    background-color: #d3cece;
+    background-color: #b1b1b1;
     border-bottom-left-radius: 20px;
     border-right: 2px solid #000000;
 }
 
 .code-to-area{
-    background-color: #b1b1b1;
+    background-color: #d3cece;
     border-bottom-right-radius: 20px;
 }
 
